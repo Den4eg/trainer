@@ -103,7 +103,7 @@ export default {
         position: absolute;
         top: -7px;
         right: -15px;
-        width: 6px;
+        width: 5px;
         height: 100%;
         color: #35495e;
         background-color: #35495e;
