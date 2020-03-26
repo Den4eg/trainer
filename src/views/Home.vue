@@ -1,4 +1,4 @@
-<template xmlns="http://www.w3.org/1999/html">
+<template>
   <div class="wrap">
     <div class="logo-wrapper logo-img">
       <img alt="Vue logo" src="../assets/logo.png" />
@@ -42,7 +42,7 @@ export default {
             next();
           }
         }
-      }, 100);
+      }, 500);
     }
   },
   computed: {
@@ -50,7 +50,7 @@ export default {
       return this.labelView.length !== this.appLabel.length ? false : true;
     }
   },
-  mounted: function() {
+  created: function() {
     this.$nextTick(this.mainIteratorLabel(this.appLabel, this.labelView));
   }
 };
@@ -77,23 +77,25 @@ export default {
     top: 200px;
     width: 300px;
     text-align: center;
+
     .logo-label {
       font-family: Ubuntu, sans-serif;
       font-weight: bold;
       color: #41b883;
       font-size: 50px;
-      font-style: unset;
       text-shadow: 0 0 2px #000000;
-
-      // .anim {
-      //   opacity: 0.5;
-      //   transition: all 0.5s ease;
-      // }
+      .anim {
+        width: 100%;
+        height: 100%;
+        animation: letters 0.3s;
+        position: relative;
+        overflow: hidden;
+      }
     }
     .label-indicator {
       position: relative;
       opacity: 0;
-      animation: indicator 1.2s infinite 1s;
+      animation: indicator 1.2s infinite 0.9s;
       font-size: 45px;
       padding-left: 5px;
       &::after {
@@ -101,23 +103,14 @@ export default {
         position: absolute;
         top: -7px;
         right: -15px;
-        width: 6px;
+        width: 5px;
         height: 100%;
         color: #35495e;
         background-color: #35495e;
       }
     }
   }
-  .l-move {
-    opacity: 0;
-  }
-  .l-leave-to {
-    opacity: 0;
-  }
-  .l-enter-to,
-  .l-enter-active {
-    opacity: 1;
-  }
+
   @keyframes indicator {
     0% {
       opacity: 0;
@@ -127,6 +120,19 @@ export default {
     }
     100% {
       opacity: 0;
+    }
+  }
+  @keyframes letters {
+    0% {
+      top: -30px;
+      opacity: 0;
+    }
+    20% {
+      opacity: 0.3;
+    }
+    100% {
+      top: 0;
+      opacity: 1;
     }
   }
 }

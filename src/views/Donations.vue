@@ -35,32 +35,36 @@ export default {};
 <style lang="scss" scoped>
 .wrap {
   height: 100%;
+  width: 70%;
   p {
     font-family: Roboto, sans-serif;
     font-size: 20px;
     margin: 7px;
   }
   .donate-wrapper {
-    width: 100%;
-    margin-top: 20vh;
+    margin-top: 15vh;
     text-align: center;
     h3 {
       margin: 20px;
     }
     .donate {
-      height: 65px;
       display: flex;
       flex-direction: row;
-      justify-content: space-evenly;
-      align-self: center;
-      flex-wrap: nowrap;
+      justify-content: space-around;
+      align-content: space-around;
+      flex-wrap: wrap;
 
       .donate-anchor {
+        display: inline-block;
         transition: all 0.2s ease;
         border: 2px solid rgb(235, 235, 235);
         box-shadow: 3px 3px 4px #6b8caf;
         padding: 0 15px;
-        margin-right: 5px;
+        margin-right: 15px;
+        margin-bottom: 25px;
+        flex-basis: 190px;
+        flex-grow: 0;
+
         .donate-type {
           img {
             height: 60px;
