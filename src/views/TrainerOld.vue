@@ -5,7 +5,7 @@
     </div>
     <div class="trainer-body">sdfsdf</div>
     <div class="keyboard-wrapper">
-      <div class="keyboard-swtches mainkeys">
+      <div class="keyboard-swtches">
         <div class="keyboard-row">
           <div class="key-block">
             <span>~</span>
@@ -46,7 +46,7 @@
           <div class="key-block">
             <span>=</span>
           </div>
-          <div class="key-block key-mod__15 font-size__13">
+          <div class="key-block key-mod__2 font-size__13">
             <span>Backspace</span>
           </div>
         </div>
@@ -184,89 +184,119 @@
           </div>
         </div>
       </div>
-      <div class="keyboard-swtches arrows">
-        <div class="key-block">
-          <span>Ins</span>
-        </div>
-        <div class="key-block">
-          <span>Home</span>
-        </div>
-        <div class="key-block">
-          <span>PgUp</span>
-        </div>
-        <div class="key-block">
-          <span>Del</span>
-        </div>
-        <div class="key-block">
-          <span>End</span>
-        </div>
-        <div class="key-block">
-          <span>PgDn</span>
-        </div>
-        <div class="key-block arrows-up">
-          <span>&#8593;</span>
-        </div>
-        <div class="key-block arrows-left">
-          <span>&#8592;</span>
-        </div>
-        <div class="key-block arrows-down">
-          <span>&#8595;</span>
-        </div>
-        <div class="key-block arrows-right">
-          <span>&#8594;</span>
+      <div class="keyboard-swtches nonedisplay__1 font-size__14">
+        <div class="keyboard-arrows">
+          <div class="arrow-block__row">
+            <div class="keyboard-row">
+              <div class="key-block">
+                <span>Ins</span>
+              </div>
+              <div class="key-block key-mod__width">
+                <span>Home</span>
+              </div>
+              <div class="key-block">
+                <span>PgUp</span>
+              </div>
+            </div>
+            <div class="keyboard-row">
+              <div class="key-block">
+                <span>Del</span>
+              </div>
+              <div class="key-block">
+                <span>End</span>
+              </div>
+              <div class="key-block">
+                <span>PgDn</span>
+              </div>
+            </div>
+          </div>
+          <div class="arrow-block__row">
+            <div class="keyboard-row">
+              <div class="key-block arrows__font key-mod__width">
+                <span>&#8593;</span>
+              </div>
+            </div>
+            <div class="keyboard-row">
+              <div class="key-block arrows__font">
+                <span>&#8592;</span>
+              </div>
+              <div class="key-block arrows__font">
+                <span>&#8595;</span>
+              </div>
+              <div class="key-block arrows__font">
+                <span>&#8594;</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="keyboard-swtches numpad">
-        <div class="key-block key-active">
-          <span>Num</span>
-        </div>
-        <div class="key-block">
-          <span>/</span>
-        </div>
-        <div class="key-block">
-          <span>*</span>
-        </div>
-        <div class="key-block">
-          <span>-</span>
-        </div>
-        <div class="key-block num-row__2">
-          <span>+</span>
-        </div>
-        <div class="key-block">
-          <span>7</span>
-        </div>
-        <div class="key-block">
-          <span>8</span>
-        </div>
-        <div class="key-block">
-          <span>9</span>
-        </div>
-        <div class="key-block">
-          <span>4</span>
-        </div>
-        <div class="key-block">
-          <span>5</span>
-        </div>
-        <div class="key-block">
-          <span>6</span>
-        </div>
-        <div class="key-block">
-          <span>1</span>
-        </div>
-        <div class="key-block">
-          <span>2</span>
-        </div>
-        <div class="key-block">
-          <span>3</span>
-        </div>
-        <div class="key-block num-col__1">
-          <span>0</span>
-        </div>
-        <div class="key-block">
-          <span>.</span>
-        </div>
-        <div class="key-block num-row__4">
-          <span>Enter</span>
+      <div class="keyboard-swtches nonedisplay__2">
+        <div class="keyboard-num__block font-size__14">
+          <div class="num-main">
+            <div class="num-main__row">
+              <div class="key-block key-active">
+                <span>Num</span>
+              </div>
+              <div class="key-block arrows__font">
+                <span>/</span>
+              </div>
+              <div class="key-block arrows__font">
+                <span>*</span>
+              </div>
+            </div>
+            <div class="num-main__row">
+              <div class="key-block">
+                <span>7</span>
+              </div>
+              <div class="key-block">
+                <span>8</span>
+              </div>
+              <div class="key-block">
+                <span>9</span>
+              </div>
+            </div>
+            <div class="num-main__row">
+              <div class="key-block">
+                <span>4</span>
+              </div>
+              <div class="key-block">
+                <span>5</span>
+              </div>
+              <div class="key-block">
+                <span>6</span>
+              </div>
+            </div>
+            <div class="num-main__row">
+              <div class="key-block">
+                <span>1</span>
+              </div>
+              <div class="key-block">
+                <span>2</span>
+              </div>
+              <div class="key-block">
+                <span>3</span>
+              </div>
+            </div>
+            <div class="num-main__row">
+              <div class="key-block">
+                <span>0</span>
+              </div>
+              <div class="key-block key-mod__width">
+                <span>.</span>
+              </div>
+            </div>
+          </div>
+          <div class="num-support">
+            <div class="key-block">
+              <span>-</span>
+            </div>
+            <div class="key-block key-mod__width key-mod__height">
+              <span>+</span>
+            </div>
+            <div class="key-block key-mod__width key-mod__height">
+              <span>Enter</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -281,7 +311,7 @@ export default {};
 <style lang="scss" scoped>
 .wrapper {
   width: 96%;
-  font-size: 14px;
+  font-size: 18px;
 }
 .keyboard-wrapper {
   background-color: #ebebeb;
@@ -291,54 +321,17 @@ export default {};
 }
 .keyboard-swtches {
   width: 100%;
-  display: grid;
-  grid-template-rows: repeat(5, 1fr);
 }
-
-.numpad {
-  grid-template-columns: repeat(4, 3rem);
-  grid-template-rows: repeat(5, 1fr);
-  .num-row__2 {
-    grid-row: 2/4;
-    grid-column: 4;
-  }
-  .num-row__4 {
-    grid-row: 4/6;
-    grid-column: 4;
-  }
-
-  .num-col__1 {
-    grid-row: 5;
-    grid-column: 1/3;
-  }
-}
-
-.arrows {
-  grid-template-columns: repeat(3, 3rem);
-  grid-template-rows: repeat(5, 1fr);
-  .arrows-up {
-    grid-column: 2;
-    grid-row: 4;
-  }
-  .arrows-left {
-    grid-column: 1;
-    grid-row: 5;
-  }
-  .arrows-down {
-    grid-column: 2;
-    grid-row: 5;
-  }
-  .arrows-right {
-    grid-column: 3;
-    grid-row: 5;
-  }
+.keyboard-row {
+  display: flex;
+  flex-direction: row;
 }
 
 .key-block {
-  background-color: #f3f3f3;
-  box-shadow: 1px 1px 4px #82aab1e6;
+  background-color: rgb(243, 243, 243);
+  box-shadow: 1px 1px 4px rgba(130, 170, 177, 0.9);
   color: #838383;
-  min-height: 2rem;
+  height: 2rem;
   min-width: 2rem;
   margin: 3px;
   border: 1px solid #a3a3a3;
@@ -348,39 +341,23 @@ export default {};
   display: flex;
   justify-content: center;
   align-items: center;
-  transition: all 0.1s ease-in-out;
+  transition: all 0.2s ease-in-out;
   cursor: pointer;
-  &:hover {
-    background-color: #d9fffa;
-    box-shadow: 0 0 4px 2px #8cc5cf;
-    border-color: #d9fffa;
-  }
 }
-.key-active {
-  background-color: rgba(180, 248, 202, 0.7);
-  box-shadow: none;
-  transform: scale(0.9);
-  border-color: #a3a3a38a;
-
-  &:hover {
-    box-shadow: 0 0 4px 1px #ff97b6b9;
-    background-color: rgba(180, 248, 202, 0.7);
-    border-color: #ff97b6b9;
-  }
-  &:active {
-    box-shadow: 0 0 4px 3px #ff97b6b9;
-  }
+.font-size__13 {
+  font-size: 13px;
 }
 
-.keyboard-row {
-  display: flex;
-  flex-direction: row;
+.font-size__14 {
+  font-size: 14px;
 }
-
 .arrows__font {
   font-size: 20px;
 }
 
+.key-mod__1 {
+  flex-grow: 1;
+}
 .key-mod__2 {
   flex-grow: 8;
 }
@@ -391,6 +368,50 @@ export default {};
 .key-mod__10 {
   flex-grow: 10;
 }
+.key-mod__15 {
+  flex-grow: 1.5;
+}
+
+.key-mod__width {
+  max-width: 2rem;
+}
+.key-mod__height {
+  min-height: 5.3rem;
+}
+
+.keyboard-arrows {
+  display: flex;
+  height: 100%;
+  flex-flow: column;
+  justify-content: space-between;
+}
+.arrow-block__row {
+  display: flex;
+  flex-direction: column;
+}
+.keyboard-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.keyboard-num__block {
+  display: flex;
+}
+.num-main {
+  display: flex;
+  flex-direction: column;
+}
+.num-main__row {
+  display: flex;
+  justify-content: center;
+}
+.key-active {
+  background-color: rgba(180, 248, 202, 0.7);
+  box-shadow: none;
+  transform: scale(0.9);
+  border-color: #a3a3a38a;
+}
 
 @media (min-width: 1141px) {
   .keyboard-wrapper {
@@ -400,41 +421,42 @@ export default {};
   }
 }
 
-@media (min-width: 979px) and (max-width: 1140px) {
+@media (min-width: 1015px) and (max-width: 1140px) {
   .keyboard-wrapper {
-    grid-template-columns: 3fr auto;
+    grid-template-columns: 4.5fr 1.1fr;
   }
-  .arrows {
+  .nonedisplay__1 {
     display: none;
   }
 }
 
-@media (min-width: 768px) and (max-width: 978px) {
+@media (min-width: 766px) and (max-width: 1014px) {
   .keyboard-wrapper {
     grid-template-columns: 1fr;
   }
-  .arrows {
+  .nonedisplay__1 {
     display: none;
   }
-  .numpad {
+  .nonedisplay__2 {
     display: none;
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 765px) {
+  // .keyboard-wrapper {
+  //   display: none !important;
+  // }
   .wrapper {
-    width: max-content;
+    width: 99%;
   }
   .keyboard-wrapper {
-    padding: 6px;
+    padding: 0;
     grid-template-columns: 1fr;
   }
-
-  .mainkeys {
+  .nonedisplay__1 {
     display: none;
   }
-
-  .arrows {
+  .nonedisplay__2 {
     display: none;
   }
 }
