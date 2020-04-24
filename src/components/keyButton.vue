@@ -5,7 +5,7 @@
       class="key-block"
       :class="` ${btn.classModifier} ${btn.positionRow} ${btn.activeClass}`"
       :key="index"
-      @click="$emit('clickMethodEvent', btn.shiftStatus?btn.shiftValue:btn.value)"
+      @click="$emit('clickMethodEvent', btn)"
     >
       <span>{{ btn.shiftStatus?btn.shiftTitle:btn.title }}</span>
     </div>
@@ -14,8 +14,7 @@
 
 <script>
 export default {
-  props: ["buuttonsArr"],
-  methods: {}
+  props: ["buuttonsArr"]
 };
 </script>
 
@@ -67,41 +66,6 @@ export default {
   background-color: rgba(27, 245, 143, 0.178);
   transform: scale(0.95);
   box-shadow: 0 0 1px 1px #acacacb9;
-}
-
-.num-row__2 {
-  grid-row: 2/4;
-  grid-column: 4;
-}
-.num-row__4 {
-  grid-row: 4/6;
-  grid-column: 4;
-}
-
-.num-col__1 {
-  grid-row: 5;
-  grid-column: 1/3;
-}
-
-.arrows-up {
-  grid-column: 2;
-  grid-row: 4;
-}
-.arrows-left {
-  grid-column: 1;
-  grid-row: 5;
-}
-.arrows-down {
-  grid-column: 2;
-  grid-row: 5;
-}
-.arrows-right {
-  grid-column: 3;
-  grid-row: 5;
-}
-
-.arrows__font {
-  font-size: 20px;
 }
 
 .mainkeys-row1 {

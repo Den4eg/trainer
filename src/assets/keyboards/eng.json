@@ -1,564 +1,563 @@
 {
-    "mainKeys": [
-        {
-            "title": "`",
-            "shiftTitle": "~",
-            "keyCode": "192",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "1",
-            "shiftTitle": "!",
-            "keyCode": "49",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "2",
-            "shiftTitle": "@",
-            "keyCode": "50",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "3",
-            "shiftTitle": "#",
-            "keyCode": "51",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "4",
-            "shiftTitle": "$",
-            "keyCode": "52",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "5",
-            "shiftTitle": "%",
-            "keyCode": "53",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "6",
-            "shiftTitle": "^",
-            "keyCode": "54",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "7",
-            "shiftTitle": "&",
-            "keyCode": "55",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "8",
-            "shiftTitle": "*",
-            "keyCode": "56",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "9",
-            "shiftTitle": "(",
-            "keyCode": "57",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "0",
-            "shiftTitle": ")",
-            "keyCode": "48",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "-",
-            "shiftTitle": "_",
-            "keyCode": "189",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "=",
-            "shiftTitle": "+",
-            "keyCode": "187",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "Backspace",
-            "shiftTitle": "Backspace",
-            "keyCode": "8",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row1",
-            "classModifier": "keyboard-key__3 font-size__13"
-        },
-        {
-            "title": "Tab",
-            "shiftTitle": "Tab",
-            "keyCode": "9",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__3"
-        },
-        {
-            "title": "q",
-            "shiftTitle": "Q",
-            "keyCode": "81",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "w",
-            "shiftTitle": "W",
-            "keyCode": "87",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "e",
-            "shiftTitle": "E",
-            "keyCode": "69",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "r",
-            "shiftTitle": "R",
-            "keyCode": "82",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "t",
-            "shiftTitle": "T",
-            "keyCode": "84",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "y",
-            "shiftTitle": "Y",
-            "keyCode": "89",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "u",
-            "shiftTitle": "U",
-            "keyCode": "85",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "i",
-            "shiftTitle": "I",
-            "keyCode": "73",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "o",
-            "shiftTitle": "O",
-            "keyCode": "79",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "p",
-            "shiftTitle": "P",
-            "keyCode": "80",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "[",
-            "shiftTitle": "{",
-            "keyCode": "219",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "]",
-            "shiftTitle": "}",
-            "keyCode": "221",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "\\",
-            "shiftTitle": "|",
-            "keyCode": "220",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row2",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "Caps",
-            "shiftTitle": "Caps",
-            "keyCode": "20",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": " keyboard-key__4 font-size__13"
-        },
-        {
-            "title": "a",
-            "shiftTitle": "A",
-            "keyCode": "65",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "s",
-            "shiftTitle": "S",
-            "keyCode": "83",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "d",
-            "shiftTitle": "D",
-            "keyCode": "68",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "f",
-            "shiftTitle": "F",
-            "keyCode": "70",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "g",
-            "shiftTitle": "G",
-            "keyCode": "71",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "h",
-            "shiftTitle": "H",
-            "keyCode": "72",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "j",
-            "shiftTitle": "J",
-            "keyCode": "74",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "k",
-            "shiftTitle": "K",
-            "keyCode": "75",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "l",
-            "shiftTitle": "L",
-            "keyCode": "76",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": ";",
-            "shiftTitle": ":",
-            "keyCode": "186",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "'",
-            "shiftTitle": "\"",
-            "keyCode": "222",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "Enter",
-            "shiftTitle": "Enter",
-            "keyCode": "13",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row3",
-            "classModifier": " keyboard-key__3 font-size__13"
-        },
+  "mainKeys": [
+    {
+      "title": "`",
+      "shiftTitle": "~",
+      "keyCode": "192",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "1",
+      "shiftTitle": "!",
+      "keyCode": "49",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "2",
+      "shiftTitle": "@",
+      "keyCode": "50",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "3",
+      "shiftTitle": "#",
+      "keyCode": "51",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "4",
+      "shiftTitle": "$",
+      "keyCode": "52",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "5",
+      "shiftTitle": "%",
+      "keyCode": "53",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "6",
+      "shiftTitle": "^",
+      "keyCode": "54",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "7",
+      "shiftTitle": "&",
+      "keyCode": "55",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "8",
+      "shiftTitle": "*",
+      "keyCode": "56",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "9",
+      "shiftTitle": "(",
+      "keyCode": "57",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "0",
+      "shiftTitle": ")",
+      "keyCode": "48",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "-",
+      "shiftTitle": "_",
+      "keyCode": "189",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "=",
+      "shiftTitle": "+",
+      "keyCode": "187",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "Backspace",
+      "shiftTitle": "Backspace",
+      "keyCode": "8",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row1",
+      "classModifier": "keyboard-key__3 font-size__13"
+    },
+    {
+      "title": "Tab",
+      "shiftTitle": "Tab",
+      "keyCode": "9",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__3"
+    },
+    {
+      "title": "q",
+      "shiftTitle": "Q",
+      "keyCode": "81",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "w",
+      "shiftTitle": "W",
+      "keyCode": "87",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "e",
+      "shiftTitle": "E",
+      "keyCode": "69",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "r",
+      "shiftTitle": "R",
+      "keyCode": "82",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "t",
+      "shiftTitle": "T",
+      "keyCode": "84",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "y",
+      "shiftTitle": "Y",
+      "keyCode": "89",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "u",
+      "shiftTitle": "U",
+      "keyCode": "85",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "i",
+      "shiftTitle": "I",
+      "keyCode": "73",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "o",
+      "shiftTitle": "O",
+      "keyCode": "79",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "p",
+      "shiftTitle": "P",
+      "keyCode": "80",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "[",
+      "shiftTitle": "{",
+      "keyCode": "219",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "]",
+      "shiftTitle": "}",
+      "keyCode": "221",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "\\",
+      "shiftTitle": "|",
+      "keyCode": "220",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row2",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "Caps",
+      "shiftTitle": "Caps",
+      "key": "CapsLock",
+      "keyCode": "20",
+      "shiftStatus": "",
+      "service": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": " keyboard-key__4 font-size__13"
+    },
+    {
+      "title": "a",
+      "shiftTitle": "A",
+      "keyCode": "65",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "s",
+      "shiftTitle": "S",
+      "keyCode": "83",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "d",
+      "shiftTitle": "D",
+      "keyCode": "68",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "f",
+      "shiftTitle": "F",
+      "keyCode": "70",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "g",
+      "shiftTitle": "G",
+      "keyCode": "71",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "h",
+      "shiftTitle": "H",
+      "keyCode": "72",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "j",
+      "shiftTitle": "J",
+      "keyCode": "74",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "k",
+      "shiftTitle": "K",
+      "keyCode": "75",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "l",
+      "shiftTitle": "L",
+      "keyCode": "76",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": ";",
+      "shiftTitle": ":",
+      "keyCode": "186",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "'",
+      "shiftTitle": "\"",
+      "keyCode": "222",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "Enter",
+      "shiftTitle": "Enter",
+      "keyCode": "13",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row3",
+      "classModifier": " keyboard-key__3 font-size__13"
+    },
 
-        {
-            "title": "Shift",
-            "shiftTitle": "Shift",
-            "keyCode": "16",
-            "left": 1,
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": " keyboard-key__5 font-size__13"
-        },
-        {
-            "title": "z",
-            "shiftTitle": "Z",
-            "keyCode": "90",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "x",
-            "shiftTitle": "X",
-            "keyCode": "88",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "c",
-            "shiftTitle": "C",
-            "keyCode": "67",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "v",
-            "shiftTitle": "V",
-            "keyCode": "86",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "b",
-            "shiftTitle": "B",
-            "keyCode": "66",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "n",
-            "shiftTitle": "N",
-            "keyCode": "78",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "m",
-            "shiftTitle": "M",
-            "keyCode": "77",
-            "shiftStatus": "",
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": ",",
-            "shiftTitle": "<",
-            "keyCode": "188",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": ".",
-            "shiftTitle": ">",
-            "keyCode": "190",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "/",
-            "shiftTitle": "?",
-            "keyCode": "191",
-            "shiftStatus": "",
-            "onlyShift": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": "keyboard-key__2"
-        },
-        {
-            "title": "Shift",
-            "shiftTitle": "Shift",
-            "keyCode": "16",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row4",
-            "classModifier": " keyboard-key__4 font-size__13"
-        },
-        {
-            "title": "Ctrl",
-            "shiftTitle": "Ctrl",
-            "left": 1,
-            "keyCode": "17",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row5",
-            "classModifier": " keyboard-key__3 font-size__13"
-        },
-        {
-            "title": "Alt",
-            "shiftTitle": "Alt",
-            "left": 1,
-            "keyCode": "18",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row5",
-            "classModifier": " keyboard-key__3 font-size__13"
-        },
-        {
-            "title": "Space",
-            "shiftTitle": "Space",
-            "keyCode": "32",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row5",
-            "classModifier": "keyboard-key__space"
-        },
-        {
-            "title": "Alt",
-            "shiftTitle": "Alt",
-            "keyCode": "18",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row5",
-            "classModifier": " keyboard-key__3 font-size__13"
-        },
-        {
-            "title": "Ctrl",
-            "shiftTitle": "Ctrl",
-            "keyCode": "17",
-            "shiftStatus": "",
-            "service": 1,
-            "activeClass": "",
-            "positionRow": "mainkeys-row5",
-            "classModifier": " keyboard-key__3 font-size__13"
-        }
-    ],
+    {
+      "title": "Shift",
+      "shiftTitle": "Shift",
+      "keyCode": "16",
+      "key": "Shift",
+      "left": 1,
+      "shiftStatus": "",
+      "service": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": " keyboard-key__5 font-size__13"
+    },
+    {
+      "title": "z",
+      "shiftTitle": "Z",
+      "keyCode": "90",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "x",
+      "shiftTitle": "X",
+      "keyCode": "88",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "c",
+      "shiftTitle": "C",
+      "keyCode": "67",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "v",
+      "shiftTitle": "V",
+      "keyCode": "86",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "b",
+      "shiftTitle": "B",
+      "keyCode": "66",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "n",
+      "shiftTitle": "N",
+      "keyCode": "78",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "m",
+      "shiftTitle": "M",
+      "keyCode": "77",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": ",",
+      "shiftTitle": "<",
+      "keyCode": "188",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": ".",
+      "shiftTitle": ">",
+      "keyCode": "190",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "/",
+      "shiftTitle": "?",
+      "keyCode": "191",
+      "shiftStatus": "",
+      "onlyShift": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": "keyboard-key__2"
+    },
+    {
+      "title": "Shift",
+      "shiftTitle": "Shift",
+      "keyCode": "16",
+      "key": "Shift",
+      "shiftStatus": "",
+      "service": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row4",
+      "classModifier": " keyboard-key__4 font-size__13"
+    },
+    {
+      "title": "Ctrl",
+      "shiftTitle": "Ctrl",
+      "left": 1,
+      "keyCode": "17",
+      "shiftStatus": "",
+      "service": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row5",
+      "classModifier": " keyboard-key__3 font-size__13"
+    },
+    {
+      "title": "Alt",
+      "shiftTitle": "Alt",
+      "left": 1,
+      "keyCode": "18",
+      "shiftStatus": "",
+      "service": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row5",
+      "classModifier": " keyboard-key__3 font-size__13"
+    },
+    {
+      "title": "Space",
+      "shiftTitle": "Space",
+      "keyCode": "32",
+      "shiftStatus": "",
+      "activeClass": "",
+      "positionRow": "mainkeys-row5",
+      "classModifier": "keyboard-key__space"
+    },
+    {
+      "title": "Alt",
+      "shiftTitle": "Alt",
+      "keyCode": "18",
+      "shiftStatus": "",
+      "service": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row5",
+      "classModifier": " keyboard-key__3 font-size__13"
+    },
+    {
+      "title": "Ctrl",
+      "shiftTitle": "Ctrl",
+      "keyCode": "17",
+      "shiftStatus": "",
+      "service": 1,
+      "activeClass": "",
+      "positionRow": "mainkeys-row5",
+      "classModifier": " keyboard-key__3 font-size__13"
+    }
+  ],
 
-    "language": "en"
+  "language": "en"
 }

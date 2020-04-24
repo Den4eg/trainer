@@ -11,11 +11,11 @@
         <pre>{{ letter.tittle }}<span :class="inputIndicator==letter.index?'indicator':''"></span></pre>
       </div>
     </div>
-    <!-- <div>
+    <div>
       <p>{{inputLabel}}</p>
       <p>Length: {{inputLabel.length}}</p>
       <p>Indicator: {{inputIndicator}}</p>
-    </div>-->
+    </div>
     <appKeyboard @emmited="em" class="keyboard"></appKeyboard>
     <p>{{errorsCount}}</p>
     <p>Indicator: {{inputIndicator}}</p>
@@ -23,7 +23,6 @@
 </template>
 
 <script>
-// import Keyboard from "../components/Keyboard.vue";
 import Keyboard from "../components/Keyboard.vue";
 
 export default {
@@ -35,8 +34,11 @@ export default {
       inputLabel: [],
       inputIndicator: -1,
       errorsCount: 0,
-      textForTraine: `The merge strategy receives the value of that option defined on the parent and child instances as the first and second arguments,
-      respectively. The context Vue instance is passed as the third argument.`,
+      textForTraine: `The merge strategy receives the value of
+      that option defined on the parent and child
+      instances as the first and second arguments,
+      respectively. The context Vue instance is 
+      passed as the third argument.`,
       trainerSplitText: []
     };
   },
@@ -66,8 +68,6 @@ export default {
       } else if (letter === "Enter") {
         this.inputLetter("\n");
       } else if (letter === "Tab") {
-        this.inputLetter(" ");
-        this.inputLetter(" ");
         this.inputLetter(" ");
         this.inputLetter(" ");
       } else if (letter === "Space") {

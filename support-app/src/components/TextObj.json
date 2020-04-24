@@ -1,0 +1,5 @@
+{
+  "array_of_paragraph": "mainText.split(\n)",
+  "array_of_proffers": "array_of_paragrph.split('.')",
+  "main_array": "[ [ Array_pars [ Array_words [ Array_letters [ ...letters ]  ]  ]  ], [ Array_pars [ Array_words [ Array_letters [ ...letters ]  ]  ]  ] ]"
+}
